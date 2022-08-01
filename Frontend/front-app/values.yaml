@@ -9,7 +9,7 @@ metadata:
 
 replicas:
   count: 2
-  revisionHistoryLimit: 1
+  revisionHistoryLimit: 0
 
 image:
   version: main-71772f0
