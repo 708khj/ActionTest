@@ -12,7 +12,7 @@ replicas:
   revisionHistoryLimit: 0
 
 image:
-  version: main-7488d01
+  version: main-08eb659
   repository: 142373294051.dkr.ecr.us-east-1.amazonaws.com/frontend
   pullPolicy: IfNotPresent
 
